@@ -1,0 +1,7 @@
+<web-applications>
+  <web-application>
+    <name>WebApplication1</name>
+    <path>/srv/apps/webapplication1/</path>
+    <vpath>/</vpath>
+  </web-application>
+</web-applications>
